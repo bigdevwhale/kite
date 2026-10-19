@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Нить</string>
+    <string name="settings">Настройки</string>
+    <string name="back">Назад</string>
+    <string name="cancel">Отмена</string>
+    <string name="ok">ОК</string>
+    <string name="next">Дальше</string>
+    <string name="start">Начать</string>
+    <string name="not_now">Не сейчас</string>
+
+    <!-- Рывок -->
+    <string name="channel">Рывки нити</string>
+    <string name="channel_desc">Тихая вибрация и «Где ты?» несколько раз в день</string>
+    <string name="tug_title">Где ты?</string>
+    <string name="tug_text">Здесь или где‑то ещё?</string>
+    <string name="tug_here">Здесь</string>
+    <string name="tug_away">Унесло</string>
+
+    <!-- Где были мысли -->
+    <string name="w_here">Здесь</string>
+    <string name="w_here_sub">в том, что делаю</string>
+    <string name="w_past">В прошлом</string>
+    <string name="w_past_sub">прокручиваю, что было</string>
+    <string name="w_future">В будущем</string>
+    <string name="w_future_sub">планы, тревоги, «а вдруг»</string>
+    <string name="w_cares">В заботах</string>
+    <string name="w_cares_sub">дела, списки, кому написать</string>
+
+    <string name="where_eyebrow">Рывок нити</string>
+    <string name="where_title">Где были мысли только что?</string>
+    <string name="where_sub">Правильного ответа нет. Весь смысл в том, чтобы заметить.</string>
+    <string name="where_self_eyebrow">Поймано</string>
+    <string name="where_self_title">Куда унесло?</string>
+    <string name="where_self_sub">Заметить самому — лучший рывок из всех.</string>
+    <string name="landed_title">Змей в траве.</string>
+    <string name="landed_sub">Ты и так здесь. Продолжай.</string>
+
+    <!-- Смотать нить -->
+    <string name="sense_see">Посмотри</string>
+    <string name="sense_hear">Послушай</string>
+    <string name="sense_feel">Почувствуй</string>
+    <string name="reel_hint_first">Держи катушку, пока ищешь</string>
+    <string name="reel_hint">Держи катушку</string>
+    <string name="reeled_title">Ты здесь.</string>
+    <string name="reeled_sub">Нить смотана. Змей лежит в траве.</string>
+    <string name="reeled_back">Вернуться к делам</string>
+    <string name="reeled_done">Готово</string>
+
+    <!-- Главный -->
+    <string name="home_resting">Змей в траве</string>
+    <string name="home_resting_sub">Снова здесь с %1$s</string>
+    <string name="home_slack">Нить отпущена</string>
+    <string name="home_slack_sub">Рывки выключены, змей летает сам по себе.</string>
+    <string name="home_quiet">Пока тихо</string>
+    <string name="home_quiet_sub">Без рывков до %1$s</string>
+    <string name="home_taut">Нить натянута</string>
+    <string name="home_taut_sub">Тихие рывки с %1$s до %2$s</string>
+    <string name="home_tomorrow">Следующий рывок завтра</string>
+    <string name="home_today">Небо дня</string>
+    <string name="home_today_empty">Сегодня рывков ещё не было</string>
+    <string name="drifted">Меня унесло</string>
+    <string name="tugs_on">Включить рывки</string>
+    <string name="quiet_off">Вернуть рывки</string>
+    <string name="quiet_hour">Тишина на час</string>
+
+    <!-- Небо дня -->
+    <string name="sky_title">Небо</string>
+    <string name="sky_prev">Предыдущий день</string>
+    <string name="sky_next">Следующий день</string>
+    <string name="sky_today">Сегодня</string>
+    <string name="sky_week">Эта неделя</string>
+    <string name="sky_reeled">Смотано %1$d из %2$d</string>
+    <plurals name="sky_self">
+        <item quantity="one">Без сигнала замечено %d раз</item>
+        <item quantity="few">Без сигнала замечено %d раза</item>
+        <item quantity="many">Без сигнала замечено %d раз</item>
+        <item quantity="other">Без сигнала замечено %d раза</item>
+    </plurals>
+    <string name="day_here">Змей чаще лежал в траве.</string>
+    <string name="day_past">Змея чаще уносило в прошлое.</string>
+    <string name="day_future">Змея чаще уносило в будущее.</string>
+    <string name="day_cares">Змея чаще уносило в заботы.</string>
+    <string name="day_mixed">Змея носило понемногу во все стороны.</string>
+    <string name="day_empty">В этом небе нет змеев.</string>
+
+    <!-- Настройки -->
+    <string name="set_tugs">Рывки</string>
+    <string name="set_tugs_on">Дёргать за нить</string>
+    <string name="set_tugs_on_sub">Тихая вибрация в моменты, которые не угадать</string>
+    <string name="set_per_day">Рывков в день</string>
+    <string name="set_per_day_sub">Ровно по дню, никогда подряд</string>
+    <string name="set_from">С</string>
+    <string name="set_to">До</string>
+    <string name="set_feel">Ощущения</string>
+    <string name="set_haptics">Щелчки катушки</string>
+    <string name="set_haptics_sub">Лёгкие щелчки под пальцем, пока сматываешь</string>
+    <string name="set_try">Попробовать сейчас</string>
+    <string name="set_try_sub">Каким будет рывок</string>
+    <string name="set_battery">Пропустить рывки</string>
+    <string name="set_battery_sub">Рывки не приходят?</string>
+    <string name="set_language">Язык</string>
+    <string name="set_lang_system">Как в системе</string>
+    <string name="set_about">О приложении</string>
+    <string name="set_privacy">Всё остаётся на этом телефоне: ни аккаунта, ни интернета, ни слежки. Нить только вибрирует, спрашивает и запоминает один твой тап.</string>
+
+    <!-- Знакомство -->
+    <string name="w1_title">Мысли — воздушный змей</string>
+    <string name="w1_text">Весь день их уносит: в прошлое, в будущее, в заботы. Так устроена голова. Важно замечать — и возвращать.</string>
+    <string name="w2_title">Рывок нити</string>
+    <string name="w2_text">Несколько раз в день — тихая вибрация и один вопрос: где ты? Один тап. Если унесло — пятнадцать секунд, чтобы смотать нить: одна вещь, которую видишь, один звук, одно ощущение.</string>
+    <string name="w3_title">Когда дёргать</string>
+    <string name="w3_text">Выбери часы. Рывки придут в моменты, которые не угадать.</string>
+
+    <!-- Виджет -->
+    <string name="widget_label">Меня унесло</string>
+    <string name="widget_sub">Смотать нить</string>
+</resources>
